@@ -1,0 +1,6 @@
+com\qa\PageLayer\dropdownElements.class
+com\qa\TestData\DataDriventest.class
+com\qa\PageLayer\basicControls.class
+com\qa\Reports\ListenersTesting.class
+com\qa\TestBase\TestBase.class
+com\qa\Utilities\ReadConfigFile.class
